@@ -1,0 +1,16 @@
+Mortalidade geral exceto causas externas    
+Óbitos Residentes MSP por Cor e Semana epidemiológica
+Óbitos por Covid 19: Óbitos suspeitos  de  COVID 19, Óbitos confirmados de COVID 19
+Período:2020
+"Cor";"SE_20 11_1ºÓbito Covid19";"SE_20 12";"SE_20 13";"SE_20 14";"SE_20 15";"SE_20 16";"SE_20 17";"SE_20 18";"SE_20 19";"SE_20 20";"SE_20 21";"SE_20 22";"SE_20 23";"SE_20 24";"SE_20 25";"SE_20 26";"SE_20 27";"SE_20 28";"SE_20 29";"SE_20 30";"SE_20 31";"SE_20 32";"SE_20 33";"SE_20 34";"SE_20 35";"SE_20 36";"SE_20 37";"SE_20 38";"SE_20 39";"SE_20 40";"SE_20 41";"SE_20 42";"SE_20 43";"SE_20 44";"SE_20 45";"SE_20 46";"SE_20 47";"Total"
+"Branca";3;48;178;366;445;452;519;656;620;688;674;696;660;661;562;490;430;443;445;410;357;377;337;232;305;237;242;209;165;174;128;101;89;79;92;124;51;12745
+"Preta";-;2;15;56;66;56;82;104;87;122;85;107;119;113;99;79;77;61;69;61;42;41;52;40;28;34;31;36;27;22;20;18;15;7;13;13;4;1903
+"Amarela";-;2;10;16;18;21;31;24;30;18;19;19;22;24;15;16;21;11;19;5;13;18;11;10;11;11;11;7;5;5;4;7;4;3;2;5;3;471
+"Parda";-;5;37;128;178;189;215;291;303;299;328;274;263;266;210;176;158;152;141;151;130;143;133;90;88;82;85;66;55;54;53;45;30;27;28;36;18;4927
+"Indígena";-;-;1;-;2;-;1;-;2;1;1;-;1;1;1;-;-;-;1;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;-;14
+"Não informado";-;-;12;17;25;28;22;42;41;40;34;36;46;30;36;17;20;15;30;31;26;14;26;8;12;18;7;9;8;11;5;7;6;4;2;3;1;689
+"Total";3;57;253;583;734;746;870;1117;1083;1168;1141;1132;1111;1095;923;778;706;682;705;658;568;593;559;380;444;382;376;327;261;266;210;178;144;120;138;181;77;20749
+Fonte: Sistema de Informações sobre Mortalidade – SIM/PRO-AIM/CEInfo – SMS/SP. Data de atualização: 19/11/2020.
+Nota:
+1- Para tabulações de proporções, o campo referente à proporção deve constar em linhas ou colunas.
+2- Em acordo com orientação do Ministério da Saúde de 20/03/2020, o código U04.9 foi utilizado como marcador dos casos suspeitos de COVID 19 e o código B34.2 foi utilizado para casos confirmados da doença.

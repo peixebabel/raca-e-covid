@@ -1,0 +1,16 @@
+Mortalidade geral exceto causas externas    
+Óbitos Residentes MSP por Cor e Fx etária de 5 em 5 anos
+Óbitos por Covid 19: Óbitos suspeitos  de  COVID 19, Óbitos confirmados de COVID 19
+Período:2020
+"Cor";"0-4a";"5-9a";"10-14a";"15-19a";"20-24a";"25-29a";"30-34a";"35-39a";"40-44a";"45-49a";"50-54a";"55-59a";"60-64a";"65-69a";"70-74a";"75 e mais";"Ign";"Total"
+"Branca";20;9;7;17;34;47;112;153;223;280;475;723;1071;1352;1537;6748;3;12811
+"Preta";1;1;-;4;9;12;21;39;62;83;108;162;209;249;254;695;1;1910
+"Amarela";-;-;-;1;-;-;-;2;2;6;9;23;24;40;58;311;-;476
+"Parda";17;5;4;11;24;41;77;132;183;235;361;413;553;636;636;1621;2;4951
+"Indígena";1;-;1;-;-;-;1;-;-;1;-;1;-;2;1;6;-;14
+"Não informado";1;-;-;2;4;-;3;12;17;27;37;61;72;78;76;304;1;695
+"Total";40;15;12;35;71;100;214;338;487;632;990;1383;1929;2357;2562;9685;7;20857
+Fonte: Sistema de Informações sobre Mortalidade – SIM/PRO-AIM/CEInfo – SMS/SP. Data de atualização: 19/11/2020.
+Nota:
+1- Para tabulações de proporções, o campo referente à proporção deve constar em linhas ou colunas.
+2- Em acordo com orientação do Ministério da Saúde de 20/03/2020, o código U04.9 foi utilizado como marcador dos casos suspeitos de COVID 19 e o código B34.2 foi utilizado para casos confirmados da doença.
